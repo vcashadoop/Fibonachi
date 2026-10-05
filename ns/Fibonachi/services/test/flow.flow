@@ -4,7 +4,7 @@ service test (
 properties {
     favorite: false;
     deprecated: false;
-    visible: private;
+    visible: public;
     reuse: public;
     stateless: true;
     cacheResults: false;
