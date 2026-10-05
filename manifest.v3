@@ -8,6 +8,6 @@
   <null name="shutdown_services"/>
   <null name="replication_services"/>
   <null name="requires"/>
-  <value name="listACL">Default</value>
+  <value name="listACL">Anonymous</value>
   <value name="webappLoad">yes</value>
 </Values>
