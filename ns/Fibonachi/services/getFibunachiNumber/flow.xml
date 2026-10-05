@@ -1663,4 +1663,8 @@
 <MAP MODE="OUTPUT">
 </MAP>
 </INVOKE>
+
+<INVOKE TIMEOUT="" SERVICE="pub.flow:tracePipeline" VALIDATE-IN="$none" VALIDATE-OUT="$none">
+  <COMMENT></COMMENT>
+</INVOKE>
 </FLOW>
